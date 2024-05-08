@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "@types/sharedworker": "^0.0.109",
-    "vite": "^5.0.7"
+    "vite": "^5.0.11"
   }
 }
